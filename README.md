@@ -7,6 +7,7 @@ example alpine Dockerfile with openrc to initialize services
 ```bash
 # clone this repository
 git clone https://github.com/nuraziz0404/docker-openrc
+cd docker-openrc
 
 # build docker image
 docker build -t alpine-openrc .
